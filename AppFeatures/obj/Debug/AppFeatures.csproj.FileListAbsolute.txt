@@ -1,0 +1,6 @@
+C:\Users\Developer\Desktop\NTTTraining\SampleConsole\AppFeatures\bin\Debug\AppFeatures.dll
+C:\Users\Developer\Desktop\NTTTraining\SampleConsole\AppFeatures\bin\Debug\AppFeatures.pdb
+C:\Users\Developer\Desktop\NTTTraining\SampleConsole\AppFeatures\obj\Debug\AppFeatures.csprojAssemblyReference.cache
+C:\Users\Developer\Desktop\NTTTraining\SampleConsole\AppFeatures\obj\Debug\AppFeatures.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Desktop\NTTTraining\SampleConsole\AppFeatures\obj\Debug\AppFeatures.dll
+C:\Users\Developer\Desktop\NTTTraining\SampleConsole\AppFeatures\obj\Debug\AppFeatures.pdb

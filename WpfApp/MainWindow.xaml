@@ -1,0 +1,17 @@
+﻿<Window x:Class="WpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="btnCompute" Content="Compute" HorizontalAlignment="Left" Margin="185,33,0,0" VerticalAlignment="Top" Width="100" Height="95" Click="BtnCompute_Click"/>
+        <TextBox x:Name="txtVal1" HorizontalAlignment="Left" Height="35" Margin="32,33,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="148"/>
+        <TextBox x:Name="txtVal2" HorizontalAlignment="Left" Height="37" Margin="32,91,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="148"/>
+        <Button x:Name="btnClickMe" Content="ClickMe" HorizontalAlignment="Left" Height="95" Margin="325,33,0,0" VerticalAlignment="Top" Width="95" Click="BtnClickMe_Click" />
+        <Button Content="Spend" HorizontalAlignment="Left" Height="95" Margin="434,33,0,0" VerticalAlignment="Top" Width="103" Click="Button_Click" />
+        <Button Content="Button" HorizontalAlignment="Left" Height="56" Margin="232,148,0,0" VerticalAlignment="Top" Width="79" Click="Button_Click_1"/>
+    </Grid>
+</Window>
